@@ -12,6 +12,8 @@
    - What does `git pull` actually do (two steps)?
 4. Commit and push `comparison.txt` (either via local merge or via a new PR).
 
-**Submit:** Content of `comparison.txt` (or screenshot) + link to the commit/PR.
+**Answers**  link to the commit/PR.
+<img width="496" height="263" alt="content of comparison" src="https://github.com/user-attachments/assets/05fd798b-8b49-4816-a7a9-ed7cb6a9e06c" />
+[link to the commit/PR](https://github.com/dhruvpatel09cg/Git-command-practice/blob/main/comparison.txt)
 
 ---
