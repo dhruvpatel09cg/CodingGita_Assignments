@@ -10,6 +10,7 @@
 5. Confirm the web change is now in your local files.
 6. Take a screenshot of the terminal showing the pull that brought the web change.
 
-**Answers:** Screenshot of the successful `git pull` that received the GitHub web edit.
+**Answers:**
+<img width="299" height="151" alt="git pull origin main" src="https://github.com/user-attachments/assets/1fb9f28f-4629-4e71-9f7a-0fddd238d020" />
 
 ---
