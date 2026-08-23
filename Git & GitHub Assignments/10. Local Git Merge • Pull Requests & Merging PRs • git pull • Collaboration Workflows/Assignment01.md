@@ -16,6 +16,8 @@
    `git push origin main`
 7. Run `git log --oneline -5` and take a screenshot of the history.
 
-**Submit:** Screenshot of `git log --oneline` after the merge + confirmation that the file is on GitHub `main`.
+**Answers:**
+<img width="352" height="67" alt="git log --oneline" src="https://github.com/user-attachments/assets/730e4efd-5cb7-4d85-853d-5f971a6f146a" />
+<img width="473" height="222" alt="local-merge on main github" src="https://github.com/user-attachments/assets/ecbbab72-ae3a-42e7-94cd-94c83cdd59ed" />
 
 ---
