@@ -21,7 +21,8 @@
 **Answers:** 
 [Linked to the merged PR](https://github.com/dhruvpatel09cg/Git-command-practice/pull/1)
 <img width="480" height="330" alt="merged pr" src="https://github.com/user-attachments/assets/db87741a-6b92-4627-8c91-bd16ab567be5" />
-<img width="303" height="107" alt="Successful git pull" src="https://github.com/user-attachments/assets/f6dcb97e-1815-4e67-bfd6-535b7eae0b49" />
+<img width="368" height="107" alt="Capture" src="https://github.com/user-attachments/assets/c084335f-a8a6-48c0-ad79-1b0be73b5ef5" />
+
 
 
 ---
