@@ -18,6 +18,10 @@
    `git pull origin main`
 9. Confirm `pr-practice.txt` is now present on local main. Take a screenshot of the terminal after pull and of the merged PR on GitHub.
 
-**Submit:** Link to the merged PR + screenshot of successful `git pull` + screenshot of GitHub PR (merged state).
+**Answers:** 
+[Linked to the merged PR](https://github.com/dhruvpatel09cg/Git-command-practice/pull/1)
+<img width="480" height="330" alt="merged pr" src="https://github.com/user-attachments/assets/db87741a-6b92-4627-8c91-bd16ab567be5" />
+<img width="303" height="107" alt="Successful git pull" src="https://github.com/user-attachments/assets/f6dcb97e-1815-4e67-bfd6-535b7eae0b49" />
+
 
 ---
