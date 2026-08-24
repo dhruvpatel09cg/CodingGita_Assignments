@@ -24,11 +24,20 @@
    ```
 9. Delete local branch:  
    `git branch -d feature/contact-form`
-10. Take screenshots of:  
-    (a) the merged PR  
-    (b) terminal after fetch + merge  
-    (c) `git branch` showing the branch is gone
+   
+   **Answers:**
+   
+11. Take screenshots of:  
+    (a) the merged PR
+    <img width="1014" height="624" alt="image" src="https://github.com/user-attachments/assets/f4190e15-82d6-4a66-85ae-a814ea7c2f6b" />
 
-**Submit:** Merged PR link + the 3 screenshots listed above.
+    (b) terminal after fetch + merge
+    <img width="816" height="473" alt="image" src="https://github.com/user-attachments/assets/148f5e24-c2ca-43e5-adec-becdcc6c9fc7" />
+
+    (c) `git branch` showing the branch is gone
+    <img width="481" height="158" alt="image" src="https://github.com/user-attachments/assets/f07edd51-115a-4791-9a88-50f3a533d1c2" />
+
+
+[Merged PR link](https://github.com/dhruvpatel09cg/Git-command-practice/pull/4)
 
 ---
