@@ -79,6 +79,78 @@
             src="https://www.example.com"
             title="Responsive iframe">
         </iframe>
+        <h3>Q: 05</h3>
+
+        <iframe
+            src="https://www.youtube.com/embed/X1aFkAkFASk?si=w8OJD6GLy9CGj_Aj"
+            width="800"
+            height="450"
+            allow="fullscreen"
+            title="Only Fullscreen">
+        </iframe>
+        <h3>Q: 06</h3>
+
+        <iframe
+            src="https://www.youtube.com/embed/BvKxCCVNXrY?si=Uny5LIq5L3OPAPnu"
+            width="100%"
+            height="500"
+            allow="gyroscope"
+            title="Only Gyroscope">
+        </iframe>
+        <h3>Q: 07</h3>
+
+        <iframe
+            src="https://device.example.com"
+            width="600"
+            height="450"
+            allow="usb"
+            title="USB only">
+        </iframe>
+        <h3>Q: 08</h3>
+
+        <iframe
+            src="https://www.youtube.com/embed/WJWaiXlcWrs?si=NuAKAzx0kmhhuhOw"
+            width="600"
+            height="315"
+            allow="fullscreen; usb; gyroscope"
+            title="Interactive Device">
+        </iframe>
+        <h3>Q: 09</h3>
+    </body>
+    </html>
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Permission Comparision</title>
+        <style>
+            .iframe-container {
+                display: flex;
+                justify-content: space-between;
+                gap: 4%;
+            }
+            iframe {
+                width: 48%;
+                height: 350px;
+                border: none;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="iframe-container">
+            <iframe
+                src="https://www.youtube.com/embed/s5Vs4XBJrZY?si=wgfgDSF2uioy4WZ-"
+                allow="fullscreen"
+                title="Fullscreen">
+            </iframe>
+            <iframe
+                src="https://www.youtube.com/embed/CkuyDsnXv-0?si=fAxzN9gXMuOTMlNa"
+                allow="gyroscope"
+                title="Gyroscope">
+            </iframe>
+        </div>
     </body>
     </html>
 </html>
