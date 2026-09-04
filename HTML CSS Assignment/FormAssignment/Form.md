@@ -272,7 +272,30 @@
         <button type="submit" formtarget="_blank">Preview</button>
     </form>
 
-    
+    <h3>Q35</h3>
+    <form action="../submit.php" method="post">
+        <label for="user">Username:</label>
+        <input type="text" name="Username" id="user" required>
+        <label for="pass">Password:</label>
+        <input type="password" name="Password" id="pass" required minlength="8">
+        <button type="submit">Submit</button>
+    </form>
+
+    <h3>Q36</h3>
+    <form action="">
+        <fieldset>
+            <legend>Personal Information</legend>
+            <label for="name">Name:</label>
+            <input type="text" name="Name" id="name" required>
+            <label for="email">Email:</label>
+            <input type="email" name="Email" id="email" required>
+        </fieldset>
+        <fieldset>
+            <legend>Preferences</legend>
+            <input type="checkbox" name="newsletter" id="newsletter">
+            <label for="newsletter">Subscribe to Newsletter</label>
+        </fieldset>
+    </form>
 </body>
 </html>
 ```
