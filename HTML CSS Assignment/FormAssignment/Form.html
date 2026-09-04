@@ -154,6 +154,46 @@
         </fieldset>
     </form>
 
+    <h3>Q18</h3>
+    <form action="../submit.php">
+        <input list="browsers">
+        <datalist id="browsers">
+            <option value="Chrome"></option>
+            <option value="Duck Duck Go"></option>
+            <option value="Firefox"></option>
+        </datalist>
+    </form>
+
+    <h3>Q19</h3>
+    <form action="../submit.php">
+        <label for="pass">Password:</label>
+        <input type="password" name="Password" id="pass" minlength="8" required>
+        <button type="submit">Submit</button>
+    </form>
+
+    <h3>Q20</h3>
+    <form action="../submit.php">
+        <label for="email">Email:</label>
+        <input type="email" multiple name="Email ID" id="email" placeholder="Seperate by comma --> ,">
+    </form>
+
+    <h3>Q21</h3>
+    <form>
+        <input type="date" name="Date" id="date" min="2023-01-01" max="2023-12-31">
+    </form>
+
+    <h3>Q22</h3>
+    <form action="../submit.php">
+        <label for="quantity">Quantity:</label>
+        <input type="number" name="quantity" id="quantity" min="1" max="10" step="1">
+    </form>
+
+    <h3>Q23</h3>
+    <form action="../submit.php">
+        <label for="vol">Volume</label>
+        <input type="range" name="Volume" id="vol" min="0" max="100" value="15">
+    </form>
+
     
 </body>
 </html>
