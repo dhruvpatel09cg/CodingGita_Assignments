@@ -296,6 +296,88 @@
             <label for="newsletter">Subscribe to Newsletter</label>
         </fieldset>
     </form>
+
+    <h3>Q37</h3>
+    <form action="">
+        <label for="name">Name:</label>
+        <input type="text" value="" placeholder="Name" required>
+        <label for="email">Email:</label>
+        <input type="email" name="email" id="email" required>
+        <br>
+        <textarea name="message" id="" rows="3" cols="30" placeholder="Message" required></textarea>
+        <button type="submit">Submit</button>
+    </form>
+
+    <h3>Q38</h3>
+    <form action="">
+        <label for="">Your Satisfaction Level:</label>
+        <input type="range" name="" id="" min="1" max="10"><br>
+        <label for="">Would you Recommend us?</label>
+        <input type="radio" name="review" id="">
+        <label for="">Yes</label>
+        <input type="radio" name="review">
+        <label for="">No</label><br>
+        <label for="">Review:</label>
+        <textarea name="Comment" id="" placeholder="Your Comment"></textarea>
+        <br><button type="submit">Submit</button>
+    </form>
+
+    <h3>Q39</h3>
+    <form action="" method="post" enctype="multipart/form-data">
+        <label for="">Your Resume:</label>
+        <input type="file" name="" id="" accept=".pdf,.docx" required><br>
+        <label for="">Photo:</label>
+        <input type="file" name="" id="" accept="image/*">
+        <button type="submit">Upload</button>
+    </form>
+
+    <h3>Q40</h3>
+    <form action="" method="get">
+        <input type="search" name="" id="" autofocus placeholder="Search here">
+        <button type="submit">Search</button>
+    </form>
+
+    <h3>Q41</h3>
+    <form action="" enctype="multipart/form-data" method="post">
+        <fieldset>
+            <legend>Personal Details</legend>
+            <label for="name">Name:</label>
+            <input type="text" name="Name" id="name" placeholder="Name"><br>
+            <label for="email">Email:</label>
+            <input type="email" name="email" id="email" placeholder="Email ID"><br>
+            <label for="phone">Phone No.:</label>
+            <input type="tel" name="mob no.:" id="phone" placeholder="XXXXX-XXXXX">
+        </fieldset>
+        <fieldset>
+            <legend>Experience</legend>
+            <textarea name="experience" id=""></textarea><br>
+            <label for="resume">Resume</label>
+            <input type="file" name="resume" id="resume" accept=".pdf">
+            <br><label for="type">Employment Type:</label>
+            <input type="radio" name="type" id="type">
+            <label for="">Part Time</label>
+            <input type="radio" name="type" id="type">
+            <label for="">Full Time</label>
+        </fieldset>
+        <input type="checkbox" name="Terms" id="t&c" required>
+        <label for="t&c">I accept Terms & Conditions.</label><br>
+        <button type="submit">Submit</button>
+        <button type="submit" formnovalidate>Save Draft</button>
+    </form>
+
+    <h3>Q42</h3>
+    <form action="../submit.php" method="post" target="_self">
+        <label for="name">Name</label>
+        <input type="text" name="name" id="name" required><br>
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email">
+        <br><label for="phone">Mobile no.</label>
+        <input type="tel" name="phone" id="phone" required><br>
+        <button type="submit" formaction="/README.php">Submit</button><br>
+        <button type="submit" formmethod="get">Apply</button><br>
+        <button type="submit" formnovalidate>Save Draft</button><br>
+        <button type="submit" formtarget="_blank">Preview</button><br>
+    </form>
 </body>
 </html>
 ```
