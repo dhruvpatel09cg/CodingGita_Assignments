@@ -1,3 +1,8 @@
+## Answers:
+---
+```html
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -44,3 +49,4 @@
     <img src="D:\IMAGE\Goggles.webp" loading="lazy" width="200">
 </body>
 </html>
+```
