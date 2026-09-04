@@ -227,7 +227,47 @@
 
     <h3>Q29</h3>
     <form action="../submit.php">
-        
+        <input type="search" value="" autofocus placeholder="Search here">
     </form>
+
+    <h3>Q30</h3>
+    <form action="../submit.php" id="form">
+        <input type="date" name="">
+    </form>
+    <label for="email">Email:</label>
+    <input type="email" name="" id="email" form="form" placeholder="Email">
+
+    <h3>Q31</h3>
+    <form action="../submit.php">
+        <button type="submit">Submit</button>
+        <button type="submit" formaction="../2nd.php">Submit 2</button>
+    </form>
+
+    <h3>Q32</h3>
+    <form action="../submit.php" method="post">
+        <button type="submit">Submit</button>
+        <button type="submit" formmethod="get">Submit 2</button>
+    </form>
+
+    <h3>Q33</h3>
+    <form action="../submit.php">
+        <label for="email">Email:</label>
+        <input type="email" name="" id="email" required placeholder="Email ID">
+        <label for="dob">D.O.B</label>
+        <input type="date" name="" id="dob" required>
+        <button type="submit">Submit</button>
+        <button type="submit" formnovalidate>Save as Draft</button>
+    </form>
+
+    <h3>Q34</h3>
+    <form action="/preview">
+        <label for="">Title:</label>
+        <input type="text" name="" id="" placeholder="Add Title">
+        <textarea name="" id="" placeholder="Content" rows="4" cols="30"></textarea>
+        <button type="submit">Save</button>
+        <button type="submit" formtarget="_blank">Preview</button>
+    </form>
+
+    
 </body>
 </html>
