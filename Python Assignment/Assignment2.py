@@ -64,3 +64,100 @@
 # print("Age:", new_age)
 
 #Q9
+# marks = "85"
+# integer_marks = int(marks)
+# bonus_marks = 5
+# final_marks = integer_marks + bonus_marks
+# print("Final Marks:",final_marks)
+
+#10
+# price = "1499.50"
+# float_price = float(price)
+# delivery_charges = 99.50
+# total = float_price + delivery_charges
+# print("Total Amount:",total)
+
+#11
+# a = 20
+# b = 6
+# print(a + b)
+# print(a - b)
+# print(a * b)
+# print(a / b)
+# print(a // b)
+# print(a % b)
+# print(a ** b)
+
+#Q12
+# 1. 3.4 --> This is the actual result of division.
+# 2. 3 --> This is the integer part of result of division.
+# 3. 2 --> This is the remainder after division.
+
+#Q13
+# 1. 20
+# result = (10 + 5) * 2
+# print(result)
+
+#Q14
+# 1. 10
+# result = 20 - (4 * 3) + 2
+# print(result)
+
+#Q15
+# 1. 8
+# 2. 9
+# 3. 100
+
+# side = 5
+# area_of_square = side ** 2
+# print(area_of_square)
+
+#Q16
+# notebook = 80
+# pen = 20
+# pencil = 10
+# total = notebook + pen + pencil
+# print("Total Amount:",total)
+
+#Q17
+# notebook_price = 50
+# pen_price = 15
+# calculator_price = 500
+
+# notebook_cost = notebook_price * 3
+# pen_cost = pen_price * 2
+# calculator_cost = calculator_price * 1
+# total = notebook_cost + pen_cost + calculator_cost
+
+# print("Notebook Cost:",notebook_cost)
+# print("Pen Cost:",pen_cost)
+# print("Calculator Cost:",calculator_cost)
+# print("Total Bill:",total)
+
+#Q18
+# total_students = 47
+# complete_groups = 47 // 5
+# remaining_students = 47 % 5
+# print("Complete Groups:",complete_groups)
+# print("Students Left:",remaining_students)
+
+#19
+# python = 85
+# mathematics = 78
+# physics = 92
+# total_marks = python + mathematics + physics
+# average_marks = total_marks / 3
+# print("Total marks:",total_marks)
+# print("Average marks:",average_marks)
+
+#20
+english = 78
+mathematics = 85
+python = 92
+physics = 81
+chemistry = 74
+
+total_marks = english + mathematics + python + physics + chemistry
+percentage = (total_marks/500)*100
+
+print(percentage)
