@@ -221,3 +221,13 @@
 # hundreds_digit = number // 100
 # digit_multiplication = ones_digit * tens_digit * hundreds_digit
 # print("Product of Digits:",digit_multiplication)
+
+#Q29
+# number = 583
+# ones_digit = number % 10
+# tens_digit = (number // 10)%10
+# hundreds_digit = number // 100
+# number_reversed = (ones_digit*100)+(tens_digit*10)+(hundreds_digit)
+# print(number_reversed)
+
+#Q30
