@@ -312,8 +312,8 @@
 # print("Temperature in Fahrenheit:",fahrenheit)
 
 #40
-# seconds = 367
-# minutes = seconds//60
-# remaining_seconds = seconds % 60
-# print("Minutes:",minutes)
-# print("Seconds:",seconds)
+seconds = 367
+minutes = seconds//60
+remaining_seconds = seconds % 60
+print("Minutes:",minutes)
+print("Seconds:",remaining_seconds)
