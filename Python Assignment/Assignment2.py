@@ -161,3 +161,63 @@
 # percentage = (total_marks/500)*100
 
 # print(percentage)
+
+#Q21
+# number = 583
+# ones_digit = number % 10
+# print("Ones digit:",ones_digit)
+
+#Q22
+# number = 583
+# tens_digit = (number // 10)%10
+# print("Tens Digit:",tens_digit)
+
+#Q23
+# number = 583
+# hundreds_digit = number // 100
+# print("Hundreds Digit:",hundreds_digit)
+
+#Q24
+# number = 746
+# ones_digit = number % 10
+# print("Ones Digit:",ones_digit)
+# tens_digit = (number // 10)%10
+# print("Tens Digit:",tens_digit)
+# hundreds_digit = number // 100
+# print("Hundreds Digit:",hundreds_digit)
+
+#Q25
+# number = 5829
+# ones_digit = number % 10
+# print("Ones Digit:",ones_digit)
+# tens_digit = (number // 10)%10
+# print("Tens Digit:",tens_digit)
+# hundreds_digit = (number // 100)% 10
+# print("Hundreds Digit:",hundreds_digit)
+# thousands_digit = number // 1000
+# print("Thousands Digit:",thousands_digit)
+
+#Q26
+# number = 583
+# ones_digit = number % 10
+# tens_digit = (number // 10)%10
+# hundreds_digit = number // 100
+# digit_sum = ones_digit + tens_digit + hundreds_digit
+# print("Sum of Digits:",digit_sum)
+
+#Q27
+# number = 4726
+# ones_digit = number % 10
+# tens_digit = (number // 10)%10
+# hundreds_digit = (number // 100)% 10
+# thousands_digit = number // 1000
+# digit_sum = ones_digit + tens_digit + hundreds_digit + thousands_digit
+# print("Sum of Digits:",digit_sum)
+
+#Q28
+# number = 234
+# ones_digit = number % 10
+# tens_digit = (number // 10)%10
+# hundreds_digit = number // 100
+# digit_multiplication = ones_digit * tens_digit * hundreds_digit
+# print("Product of Digits:",digit_multiplication)
