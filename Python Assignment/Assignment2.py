@@ -231,3 +231,89 @@
 # print(number_reversed)
 
 #Q30
+# number = 4726
+# ones_digit = number % 10
+# tens_digit = (number // 10)%10
+# hundreds_digit = (number // 100)% 10
+# thousands_digit = number // 1000
+# print("Original Number:",number)
+# number_reversed = (ones_digit*1000)+(tens_digit*100)+(hundreds_digit*10)+(thousands_digit)
+# print("Reversed Number:",number_reversed)
+
+#Q31
+# number = 5834
+# ones_digit = (number % 10)
+# tens_digit = ((number // 10)%10)*10
+# hundreds_digit = ((number // 100)% 10)*100
+# thousands_digit = (number // 1000)*1000
+# print("Thousands place:",thousands_digit)
+# print("Hundreds place:",hundreds_digit)
+# print("Tens place:",tens_digit)
+# print("Ones place:",ones_digit)
+
+#Q32
+# number = 583
+# ones_digit = (number % 10)
+# hundreds_digit = (number // 100)% 10
+# difference = hundreds_digit - ones_digit
+# print("Difference:",difference)
+
+#Q33
+# number = 583
+# ones = number % 10
+
+# print("Ones Digit:", ones)
+
+#Q34
+# number = 9365
+# ones_digit = number % 10
+# tens_digit = (number // 10)%10
+# hundreds_digit = (number // 100)% 10
+# thousands_digit = number // 1000
+# print("Thousands Digit:",thousands_digit)
+# print("Hundreds Digit:",hundreds_digit)
+# print("Tens Digit:",tens_digit)
+# print("Ones Digit:",ones_digit)
+
+#Q35
+# hundreds = 5
+# tens = 8
+# ones = 3
+# number = (hundreds*100) + (tens*10) + (ones)
+# print(number)
+
+#Q36
+# principal = 10000
+# rate = 5
+# time = 2
+# simple_interest = (principal*rate*time)/100
+# print(simple_interest)
+
+#Q37
+# length = 15
+# width = 8
+
+# area = length*width
+# print(area)
+
+# perimeter = 2* (length+width)
+# print(perimeter)
+
+#Q38
+# radius = 7
+# pi = 3.14
+
+# area = pi*(radius**2)
+# print("Area of circle:",area)
+
+#Q39
+# celsius = 35
+# fahrenheit = (celsius*9/5)+32
+# print("Temperature in Fahrenheit:",fahrenheit)
+
+#40
+# seconds = 367
+# minutes = seconds//60
+# remaining_seconds = seconds % 60
+# print("Minutes:",minutes)
+# print("Seconds:",seconds)
