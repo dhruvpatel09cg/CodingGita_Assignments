@@ -151,13 +151,13 @@
 # print("Average marks:",average_marks)
 
 #20
-english = 78
-mathematics = 85
-python = 92
-physics = 81
-chemistry = 74
+# english = 78
+# mathematics = 85
+# python = 92
+# physics = 81
+# chemistry = 74
 
-total_marks = english + mathematics + python + physics + chemistry
-percentage = (total_marks/500)*100
+# total_marks = english + mathematics + python + physics + chemistry
+# percentage = (total_marks/500)*100
 
-print(percentage)
+# print(percentage)
