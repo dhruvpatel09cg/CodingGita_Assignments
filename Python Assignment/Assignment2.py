@@ -486,3 +486,68 @@
 # print("Type:", type(total))
 
 #Q57
+# number = 746
+
+# ones = number % 10
+# tens = (number // 10)%10
+# hundreds = number // 100
+
+# print("Ones:", ones)
+# print("Tens:", tens)
+# print("Hundreds:", hundreds)
+
+#Q58
+# price = 2000
+# discount = 15
+
+# discount_amount = price * discount / 100
+# final_price = price - discount_amount
+
+# print("Discount:", discount_amount)
+# print("Final Price:", final_price)
+
+#Q59
+# student_name = "Rahul"
+# marks1 = 85
+# marks2 = 90
+# marks3 = 78
+
+# total = marks1 + marks2 + marks3
+# average = total / 3
+
+# print("Student:", student_name)
+# print("Total Marks:", total)
+# print("Average:", average)
+# print("Marks Type:", type(total))
+
+#Q60
+#-->Part A
+# number = 5836
+# thousands_digit = number//1000
+# print("Thousands digit:",thousands_digit)
+# hundreds_digit = (number//100)%10
+# print("Hundreds digit:",hundreds_digit)
+# tens_digit = (number%100)//10
+# print("Tens digit:",tens_digit)
+# ones_digit = number%10
+# print("Ones digit:",ones_digit)
+# sum_digit = thousands_digit+hundreds_digit+tens_digit+ones_digit
+# print("Sum of digits:",sum_digit)
+# reverse = (ones_digit*1000)+(tens_digit*100)+(hundreds_digit*10)+(thousands_digit)
+# print("Reversed number:",reverse)
+
+#-->Part B
+# price = "1250"
+# quantity = "4"
+# discount = "10"
+
+# price_int = int(price)
+# quantity_int = int(quantity)
+# discount_int = int(discount)
+
+# subtotal = price_int*quantity_int
+# print("Subtotal:",subtotal)
+# discount_amount = subtotal/discount_int
+# print("Discount amount:",discount_amount)
+# final = subtotal-discount_amount
+# print("Final price:",final)
