@@ -30,10 +30,12 @@ My Tasks
    git branch -D feature/tasks-B
    ```
 
-**Submit:**
-- Repository link
-- Screenshot of the conflict editor (showing markers)
-- Screenshot of the successfully merged second PR
-- Screenshot of `git log --oneline` after pull
+**Answers:**
+- [Repository link]:(https://github.com/dhruvpatel09cg/Git-command-practice)
+-<img width="929" height="321" alt="Capture1" src="https://github.com/user-attachments/assets/15a58eb5-39e3-49f0-acb2-9611c6a6b2ee" />
+
+-<img width="960" height="510" alt="Capture2" src="https://github.com/user-attachments/assets/b74144e6-847a-4c66-85f4-56165a0a7587" />
+ 
+-<img width="720" height="363" alt="image" src="https://github.com/user-attachments/assets/8cdf5f77-62eb-43a1-925c-6a97d33a90f2" />
 
 ---
