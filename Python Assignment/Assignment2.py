@@ -312,8 +312,177 @@
 # print("Temperature in Fahrenheit:",fahrenheit)
 
 #40
-seconds = 367
-minutes = seconds//60
-remaining_seconds = seconds % 60
-print("Minutes:",minutes)
-print("Seconds:",remaining_seconds)
+# seconds = 367
+# minutes = seconds//60
+# remaining_seconds = seconds % 60
+# print("Minutes:",minutes)
+# print("Seconds:",remaining_seconds)
+
+#Q41
+# total_seconds = 7384
+# hours = total_seconds // 3600
+# print("Hours:",hours)
+
+# minutes = (total_seconds - (hours*3600))//60
+# print("Minutes:",minutes)
+
+# seconds = total_seconds % 60
+# print("Seconds:",seconds)
+
+#Q42
+# basic_salary = 25000
+# hra = 5000
+# travel_allowance = 2500
+# tax_deduction = 3000
+
+# gross_salary = basic_salary + hra + travel_allowance
+# print("Gross Salary:",gross_salary)
+# net_salary = gross_salary - tax_deduction
+# print("Net Salary:",net_salary)
+
+# Q43
+# total_path = 120
+# milage = 20
+# fuel_cost = 100
+
+# fuel_required = total_path/milage
+# print("Fuel required:",fuel_required,"ltr")
+
+# total_fuel_cost = fuel_required*fuel_cost
+# print("Total fuel cost: ₹",total_fuel_cost)
+
+# Q44
+# price = "2500"
+# discount = "10"
+
+# float_price = float(price)
+# integer_discount = int(discount)
+
+# discount_amount = float_price/10
+# print("Discount amount:",discount_amount)
+
+# final_price = float_price - discount_amount
+# print("Final price:",final_price)
+
+#Q45
+# price = "1200"
+# quantity = "4"
+
+# int_price = int(price)
+# print("Price:",int_price)
+
+# integer_quantity = int(quantity)
+# print("Quantity:",integer_quantity)
+
+# total_price = int_price*integer_quantity
+# print("Total price:",total_price)
+
+#Q46
+# python_marks = "85"
+# math_marks = "78"
+# physics_marks = "91"
+
+# int_py_marks = int(python_marks)
+# int_math_marks = int(math_marks)
+# int_phy_marks = int(physics_marks)
+
+# total_marks = int_math_marks+int_phy_marks+int_py_marks
+# print("Total marks:",total_marks)
+
+# avg_marks = total_marks/3
+# print("Average marks:",avg_marks)
+
+#Q47
+# price = "1500"
+# quantity = "2"
+# tax_rate = "5"
+
+# int_price = int(price)
+# int_quantity = int(quantity)
+# int_tax = int(tax_rate)
+
+# subtotal = int_price*int_quantity
+# print("Subtotal:",subtotal)
+
+# tax_amount = (subtotal*5)/100
+# print("Tax amount:",tax_amount)
+
+# final_bill = subtotal+tax_amount
+# print("Final bill:",final_bill)
+
+#Q48
+# cost = 2000
+# discount = 15
+# gst = 18
+
+# discount_amount = (cost*15)/100
+# print("Discount amount:",discount_amount)
+
+# price_after_discount = cost - discount_amount
+# print("Price after discount:",price_after_discount)
+
+# gst_amount = (price_after_discount*18)/100
+# print("GST amount:",gst_amount)
+
+# final_price = price_after_discount+gst_amount
+# print("Final price:",final_price)
+
+#Q49
+# price = 500
+# quantity = 3
+
+# total = price * quantity
+
+# print("Total:", total)
+
+#Q50
+# marks1 = 80
+# marks2 = 75
+# marks3 = 90
+
+# total = marks1 + marks2 + marks3
+
+# print("Total Marks:", total)
+
+#Q51
+# 1. 50
+# 2. 50
+# 3. <class 'str'>
+# 4. <class 'int'>
+
+#Q52
+# 1. 99.99
+# 2. 99
+# --> after we applied int the float no. is converted to integer.
+
+#Q53
+# 1. 17
+# 2. 7
+# 3. 60
+# 4. 2.4
+# 5. 2
+# 6. 2
+
+#Q54
+# 1. 20
+# 2. 30
+# 3. 7.0
+# 4. 2.5
+# --> without parentheses the calculation happens as per priority sequence but using parentheses make the calculation it in prior.
+
+#Q55
+# 1. 4
+# 2. 8
+# 3. 6
+
+#Q56
+# student_name = "Ravi"
+# marks = 85
+
+# total = marks + 5
+
+# print("Student:", student_name)
+# print("Marks:", total)
+# print("Type:", type(total))
+
+#Q57
