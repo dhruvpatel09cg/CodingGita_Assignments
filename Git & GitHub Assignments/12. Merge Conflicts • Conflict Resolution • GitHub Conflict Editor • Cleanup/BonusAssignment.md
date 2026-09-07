@@ -10,6 +10,10 @@
    ```
 5. Push the result.
 
-**Submit (optional):** Screenshot of the conflicted file and the resolution commit.
+**Answers:**
+<img width="1140" height="821" alt="image" src="https://github.com/user-attachments/assets/39c55c64-5759-4ec6-adc4-90802f80bce6" />
+
+<img width="799" height="800" alt="image" src="https://github.com/user-attachments/assets/2217433c-33fb-4644-9967-3f5e48c9ba28" />
+
 
 ---
