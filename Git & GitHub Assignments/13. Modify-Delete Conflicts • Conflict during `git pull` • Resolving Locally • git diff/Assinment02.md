@@ -35,10 +35,15 @@
    ```
 8. Merge the PR on GitHub, delete remote & local feature branches, and run `git pull origin main`.
 
-**Submit:**
-- Links to both PRs
-- Screenshot of the conflict message / VS Code showing the conflict
-- Screenshot of final `notes.txt` on main
-- Repository link
+**Answers:**
+- [1st PR](https://github.com/dhruvpatel09cg/Git-command-practice/pull/15)
+- [2nd PR](https://github.com/dhruvpatel09cg/Git-command-practice/pull/16)
+- <img width="1255" height="611" alt="image" src="https://github.com/user-attachments/assets/5b7560fe-3a33-4194-ad3a-9de1daf12fb6" />
+
+- <img width="940" height="788" alt="image" src="https://github.com/user-attachments/assets/4970c8ed-08fa-44a1-95f9-55890ed0c57e" />
+
+-<img width="1893" height="735" alt="image" src="https://github.com/user-attachments/assets/17e79f02-da1e-40a3-aea8-091127fc380d" />
+
+- [Repository link](https://github.com/dhruvpatel09cg/Git-command-practice/tree/main/Day13)
 
 ---
