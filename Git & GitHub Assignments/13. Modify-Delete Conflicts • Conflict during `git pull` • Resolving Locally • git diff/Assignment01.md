@@ -24,7 +24,11 @@
 
 **Submit:**
 - Screenshot of the conflict markers
+- <img width="1053" height="792" alt="image" src="https://github.com/user-attachments/assets/cf140ea5-a5b0-464b-8fdc-fb7c324c92a7" />
 - Screenshot of the final resolved file on GitHub
-- Repository link
+- <img width="1420" height="717" alt="image" src="https://github.com/user-attachments/assets/fe5c4a8a-dd1c-4306-85ba-0d3ec451d873" />
+
+- [Repository link](https://github.com/dhruvpatel09cg/Git-command-practice/blob/main/welcome.txt)
+
 
 ---
