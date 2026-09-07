@@ -9,6 +9,8 @@ write answer in your own words in your notebook:
 
 Commit and push the file to `main`.
 
-**Submit:** - Photos of the answers of the above questions.
+**Answers:** 
+<img width="1599" height="940" alt="WhatsApp Image 2026-09-07 at 9 39 37 AM" src="https://github.com/user-attachments/assets/fdb7a169-285d-413d-94e8-83d49b369248" />
+<img width="1599" height="1390" alt="WhatsApp Image 2026-09-07 at 9 39 59 AM" src="https://github.com/user-attachments/assets/3422e824-e32e-4062-8ddb-8aeec998d410" />
 
 ---
