@@ -24,9 +24,11 @@ git add profile.txt
 git commit -m "Add profile.txt"
 ```
 
-**Submit:**
-- Screenshot of `git status` when the file was untracked
-- Screenshot after using `git restore --staged`
-- Repository link
+**Answers:**
+- <img width="1357" height="382" alt="image" src="https://github.com/user-attachments/assets/22f3189f-37ff-459b-9910-c5b3c3ab2993" />
+
+- <img width="766" height="465" alt="image" src="https://github.com/user-attachments/assets/3eba37dc-626c-4054-88ed-64cd8d98d706" />
+
+- [Repository link](https://github.com/dhruvpatel09cg/Git-command-practice/tree/main/Day14)
 
 ---
