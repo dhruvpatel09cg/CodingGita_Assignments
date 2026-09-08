@@ -36,7 +36,7 @@ git push origin main
 **Answers**
 
 
-1. [**GitHub repository link**](https://github.com/dhruvpatel09cg/Git-command-practice.git)
+1. [**GitHub repository link**](https://github.com/dhruvpatel09cg/Git-command-practice/tree/main/Day6)
 2. <img width="476" height="216" alt="git status before commit" src="https://github.com/user-attachments/assets/7042145d-6813-496a-a95a-a510ea50c5b3" />
 <img width="482" height="250" alt="git status after commit" src="https://github.com/user-attachments/assets/dc85a903-eff5-4c44-85e9-c52d179fec17" />
 <img width="512" height="150" alt="git log --oneline" src="https://github.com/user-attachments/assets/05506165-0abd-43ef-be4e-403fc5c6cfaa" />
