@@ -45,9 +45,12 @@ git push origin main
 - Why should we **not** add `.gitignore` inside `.gitignore`?
 
 **Submit:**
-- Screenshot of `git status` after using `git rm --cached`
-- Screenshot showing that `config.env` is ignored / removed from GitHub
-- Content of `why-gitignore.txt`
-- Repository link (make sure `config.env` is **not** visible on GitHub)
+- <img width="897" height="455" alt="image" src="https://github.com/user-attachments/assets/436e56ab-0d4d-466d-8856-b6a916161b47" />
+
+- <img width="1431" height="600" alt="image" src="https://github.com/user-attachments/assets/7511c85a-de5a-4dd0-8a29-43f9efd1bbce" />
+
+- <img width="1120" height="503" alt="image" src="https://github.com/user-attachments/assets/437c0e52-805c-4d2a-9ee6-26eb4c78c418" />
+
+- [Repository link](https://github.com/dhruvpatel09cg/Git-command-practice/tree/main/Day15)
 
 ---
