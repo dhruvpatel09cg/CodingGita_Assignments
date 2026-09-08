@@ -25,9 +25,11 @@ git commit -m "Remove profile.txt using git rm"
 - What is the difference between `rm` and `git rm`?
 - When should you use `git rm`?
 
-**Submit:**
-- Screenshots of `git status` after `rm` and after `git rm`
-- Content of `delete-difference.txt`
-- Repository link
+**Answers:**
+- <img width="817" height="340" alt="image" src="https://github.com/user-attachments/assets/8fea319b-a639-4fb2-a743-c92f38d20b11" />
+- <img width="645" height="362" alt="image" src="https://github.com/user-attachments/assets/99c10698-9990-4473-9baa-1c92cda8cd1b" />
+- <img width="1075" height="308" alt="image" src="https://github.com/user-attachments/assets/29c3ea97-2583-4516-9ea1-80d7a0b60581" />
+
+- [Repository link](https://github.com/dhruvpatel09cg/Git-command-practice/tree/main/Day15)
 
 ---
