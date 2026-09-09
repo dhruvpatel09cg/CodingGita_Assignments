@@ -12,7 +12,7 @@
    - When should you prefer `git revert`?
    - What do `HEAD`, `HEAD~1`, and `HEAD~2` mean?
 
-**Submit:**
+**Answers:**
 - <img width="601" height="236" alt="image" src="https://github.com/user-attachments/assets/a99b0dd3-85c5-4ed6-939b-a80ea374fafd" />
 
 - <img width="1128" height="1525" alt="WhatsApp Image 2026-09-09 at 11 20 19 AM" src="https://github.com/user-attachments/assets/389ab92d-74bb-4187-815e-4c348486321e" />
