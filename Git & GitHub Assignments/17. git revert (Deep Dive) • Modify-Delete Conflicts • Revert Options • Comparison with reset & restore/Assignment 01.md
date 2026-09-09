@@ -11,7 +11,7 @@
    (or use the commit hash)
 4. Run `git log --oneline` and observe the new revert commit.
 
-**Submit:**
+**Answers:**
 - <img width="634" height="371" alt="image" src="https://github.com/user-attachments/assets/9be2febe-9202-4a45-9afd-3db67cd02a32" />
 
 - <img width="565" height="226" alt="image" src="https://github.com/user-attachments/assets/cfdc40dd-df7d-4b7c-aca7-a43226cbd429" />
