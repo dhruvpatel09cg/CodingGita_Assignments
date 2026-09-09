@@ -1,0 +1,28 @@
+### Part C1 — Practical (10 mins)
+
+1. On `main`:
+   - Edit `README.md`.
+   - Create `temp.txt` (untracked).
+
+2. Run:
+   ```bash
+   git stash
+   git stash -u
+   git stash list
+   ```
+   - Take 1 screenshot.
+
+3. Answer:
+   - Q1: How many stashes? Which one is latest?
+   - Q2: Which stash has `temp.txt`?
+
+4. Run:
+   ```bash
+   git stash pop
+   git stash list
+   ```
+   - Take 1 screenshot.
+
+5. Answer:
+   - Q3: What changed in the stash list after `pop`? (2 lines)
+
