@@ -18,7 +18,7 @@
    - How is it different from `git reset`?
    - When is `git revert` safer than `git reset`?
 
-**Submit:**
+**Answers:**
 - <img width="572" height="242" alt="image" src="https://github.com/user-attachments/assets/d54b2476-b168-42e6-b984-e346ad591235" />
 
 - <img width="1600" height="956" alt="WhatsApp Image 2026-09-09 at 9 19 08 AM" src="https://github.com/user-attachments/assets/78f312f4-a275-4123-88a3-085c5cee8d77" />
