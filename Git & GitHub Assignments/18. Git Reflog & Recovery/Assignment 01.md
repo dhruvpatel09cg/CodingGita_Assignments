@@ -11,8 +11,8 @@
 5. Recover C2 (and C1) using detached HEAD + branch + merge
 6. Verify all commits are restored
 
-### Deliverables
-```
+### Answers
+
 ✅ <img width="621" height="154" alt="image" src="https://github.com/user-attachments/assets/e432b8f2-1a34-47b4-ab09-6b9c974a20dd" />
 
 
@@ -23,4 +23,3 @@
 ✅ <img width="662" height="158" alt="image" src="https://github.com/user-attachments/assets/d9f34ef4-56b8-4da4-a871-518cdf3b5c46" />
 
 ✅ [Push final repository to GitHub](https://github.com/dhruvpatel09cg/reflog-practice-part1)
-```
