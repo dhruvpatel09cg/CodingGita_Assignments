@@ -32,6 +32,8 @@
 
 6. Answer:
    - Q4: Why did you need `git stash` before switching to `main`? (2–3 lines)
+   - <img width="917" height="212" alt="image" src="https://github.com/user-attachments/assets/99a445e9-fdfe-4964-a3fe-6692b11957dc" />
+
    - Q5:<img width="650" height="169" alt="image" src="https://github.com/user-attachments/assets/4399cf8b-2720-46b1-ae15-f75ff8b6940e" />
 
 
