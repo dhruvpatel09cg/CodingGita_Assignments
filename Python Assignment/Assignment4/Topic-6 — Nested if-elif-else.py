@@ -20,7 +20,7 @@
 # else:
 #     print("All are equal")
 
-
+''' Alernate '''
 # if A >= B:
 #     if A >= C:
 #         if A == B and A == C:
