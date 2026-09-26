@@ -43,7 +43,7 @@ When a user clicks a button with id "myBtn", the text of a paragraph with id "de
 
 <script>
 
-document.getElementById("muBtn").addEventListener("click", function() {
+document.getElementById("myBtn").addEventListener("click", function() {
     document.getElementById("demo").textContent = "Button was Clicked!"
 })
 </script>
