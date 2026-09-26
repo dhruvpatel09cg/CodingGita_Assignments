@@ -19,3 +19,15 @@ Output:
 
     As JS is a Dynamically typed language it changes type of variable according to the value assigned in it.
       
+Q21. Write a simple HTML + JavaScript program that displays an alert box with the message "Welcome to JavaScript!" when a button is clicked.
+
+'''HTML
+    <button id="msg">Click Me!</button>
+
+<script>
+    let msg = document.getElementById("msg")
+
+    msg.addEventListener("click", function() {
+        alert("Welcome to JavaScript!")
+    })
+</script>
