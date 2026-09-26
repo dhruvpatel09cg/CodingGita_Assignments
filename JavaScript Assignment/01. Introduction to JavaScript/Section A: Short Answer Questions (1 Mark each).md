@@ -24,3 +24,24 @@ Q6. Is JavaScript a compiled language or an interpreted language? Explain briefl
 
     JavaScript is an interpreted language which is executed by JS engine built in browser used. The engine
     reads and executes the code line-by-line or step-by-step.
+
+Q7. Name the JavaScript engines used by the following browsers:
+
+- Google Chrome
+- Mozilla Firefox
+- Apple Safari
+
+      Google Chrome: V8
+      Mozilla Firefox: SpiderMonkey
+      Apple Safari: JavaScriptCore
+
+Q8. What is Dynamic Typing in JavaScript?
+
+    Dynamic Typing means JS automatically identifies the data type of a value when program runs.
+
+Q9. What is the main difference between a static website and a dynamic website?
+
+    Static Website: You can just read the content added on webpage changing pages or using buttons makes
+                    no change on webpage.
+    Dynamic Website: You can use buttons and navigate to pages or section using them and share data to
+                    backend server.
