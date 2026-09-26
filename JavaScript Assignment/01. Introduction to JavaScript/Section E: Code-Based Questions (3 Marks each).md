@@ -8,7 +8,8 @@ Q20. Predict the output of the following code and explain why:
     console.log(typeof value);
 
   Ans: 
-    Output:
+  
+Output:
     
       number
       string
@@ -16,6 +17,5 @@ Q20. Predict the output of the following code and explain why:
 
   Reason:
 
-    As JS is a Dynamically typed language it changes type of variable according to the value assigned 
-    in it.
+    As JS is a Dynamically typed language it changes type of variable according to the value assigned in it.
       
