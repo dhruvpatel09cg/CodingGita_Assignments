@@ -1,7 +1,7 @@
 Q14. Differentiate between a static website and a dynamic website. Give one real-world example of each.
 
-        Static website: Websites in which you may just read texts and see images. They doesn't provide facilities of interaction and changing pages or adding animation.
-        e.g.: Personal Portfolios, Wikipedia
+        Static website: Websites in which you may just read texts and see images. They doesn't provide
+        facilities of interaction and changing pages or adding animation. e.g.: Personal Portfolios, Wikipedia
 
         Dynamic website: Interactive websites on which you may use various functions and change pages as needed. They also facilitate to take input and give output accordingly.
         e.g.: Amazon, Google Maps
