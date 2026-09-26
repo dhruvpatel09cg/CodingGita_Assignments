@@ -29,10 +29,12 @@ Q17. What is the difference between writing JavaScript code:
 
         1. Inside HTML: Writing JS code inside a HTML file using <script> tag runs the HTML code alongside
            HTML code on the browser
-        2. External .js file: JS code can be ran alone and outside browser using a runtime environment using
+        2. External .js file: JS code can be ran alone and outside browser using a runtime environment
+           using
            called Node.js
           Advantages: 1. No need of browser to run code, it helps in developing backends for apps
-                      2. Code of JS can be used multiple time by linking same .js file to different HTML files.
+                      2. Code of JS can be used multiple time by linking same .js file to different HTML
+                         files.
 
 Q18. Explain the difference between Frontend and Backend using the restaurant analogy in your own words.
 
