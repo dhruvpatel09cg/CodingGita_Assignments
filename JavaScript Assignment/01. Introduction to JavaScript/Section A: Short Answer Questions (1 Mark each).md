@@ -45,3 +45,25 @@ Q9. What is the main difference between a static website and a dynamic website?
                     no change on webpage.
     Dynamic Website: You can use buttons and navigate to pages or section using them and share data to
                     backend server.
+
+Q10. Name the three pillars of Front-end Web Development and write one line about each.
+
+    HTML: Adds content of webpage.
+    CSS: Styles the webpage.
+    JS: Makes the website interactive.
+
+Q11. What is the difference between Frontend and Backend?
+
+    Frontend: It is called client-side, it's development focuses on everything the user sees and interacts
+              with in the browser.
+    Backend: It is called server-side, it's development focuses on handling the logic, data processing and 
+              storage.
+
+Q12. What is Node.js?
+
+    It is a runtime environment for JS that allows JS to run outside the browser.
+
+Q13. Explain ECMAScript. What is its relation with JavaScript?
+
+    ECMAScript is not a programming language like JS. It is a standard or rulebook that defines how the JS
+    language should work.
