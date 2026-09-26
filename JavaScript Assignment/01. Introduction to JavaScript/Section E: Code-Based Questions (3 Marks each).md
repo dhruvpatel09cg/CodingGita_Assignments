@@ -21,7 +21,7 @@ Output:
       
 Q21. Write a simple HTML + JavaScript program that displays an alert box with the message "Welcome to JavaScript!" when a button is clicked.
 
-'''HTML
+'''html
     <button id="msg">Click Me!</button>
 
 <script>
@@ -31,3 +31,4 @@ Q21. Write a simple HTML + JavaScript program that displays an alert box with th
         alert("Welcome to JavaScript!")
     })
 </script>
+'''
