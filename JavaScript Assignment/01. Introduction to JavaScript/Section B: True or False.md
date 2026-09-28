@@ -19,19 +19,20 @@
 
 5. JavaScript is case-insensitive.
 
-        True
+        False
+        JS is a Case-Sensitive language.
 
-6. let name and let Name are the same variable
+7. let name and let Name are the same variable
 
         False
         As JS is case sensitive language 'let name' and 'let Name' are different variables.
 
-7. ECMAScript is a programming language.
+8. ECMAScript is a programming language.
 
         False
         ECMAScript is a standard or rulebook that defines how the JS language should work.
 
-8. React, Angular, and Vue.js are used for Backend development.
+9. React, Angular, and Vue.js are used for Backend development.
 
         False
         React, Angular and Vue.js are used for Frontend development.
