@@ -7,7 +7,7 @@
 Assign values to all three variables. Change marks and print all variables.
 ```javascript
 const studentName = "Vraj Patel"
-var marks = 98
+let marks = 98
 const schoolName = "ABC School"
 
 marks = "99"
@@ -28,4 +28,30 @@ if (x == 5){
 console.log(name1) // Successfully runs
 console.log(name2) // error name2 not defined
 console.log(name3) // error name3 not defined
+```
+7. Test Re-declaration Declare a variable named user using var and declare it again with a different value. Then perform the same experiment using let. Observe what happens and identify which declaration allows re-declaration.
+```js
+var user = "Found"
+var user = "Not Found"
+
+console.log(user) // Runs Successfully
+
+let result = "Pass"
+let result = "Fail"
+
+console.log(result) // Error Identifier 'result' has already been declared
+```
+8. Test Re-assignment Create three variables using var, let, and const. Assign an initial value to each. Try to change the value of all three variables. Observe which variables allow re-assignment and which one produces an error.
+```js
+var name1 = "Harry"
+let name2 = "Hitesh"
+const name3 = "Hiren"
+
+name1 = "Sahil"
+name2 = "Sam"
+name3 = "Sujeet"
+
+console.log(name1) // Runs Successfully
+console.log(name2) // Runs Successfully
+console.log(name3) // Error Assignment to constant variable.
 ```
