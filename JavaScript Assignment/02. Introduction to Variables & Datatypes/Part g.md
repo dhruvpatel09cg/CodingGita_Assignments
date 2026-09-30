@@ -53,3 +53,4 @@ c) Give one example of a Non-Primitive data type and explain why it is considere
     object is one of the Non-Primitive data types.
     It is considered as Non-Primitive as it can hold multiple values as variable and it is a
     complex datatype.
+    
