@@ -12,7 +12,8 @@ let empty = null;
 console.log(typeof person); // print: object , It is an object variable
 console.log(typeof colors); // print: object , It is array still it print object due to quirk of JS
 console.log(typeof sayHi); // print: function , It is a function
-console.log(typeof empty); // print: object , It is a null variable which is left empty intentionally but prints object due to quirk of JS
+console.log(typeof empty); // print: object , It is a null variable which is left empty intentionally but
+ prints object due to quirk of JS
 console.log(person.name); // print: Amit , this command asks for name variable inside person object
 console.log(colors[1]); // print: green , this asks for the color present at index 1 in array colors
 console.log(sayHi()); // print: Hi! , we've called function sayHi() which returns Hi!
@@ -96,8 +97,8 @@ const PI = 3.14
 ```
 
 ```md
-    let: When we are declaring a variable whose value we are going to change later in code we should prefer
-    let
+    let: When we are declaring a variable whose value we are going to change later in code we should
+ prefer let
 ```
 
 ```js
