@@ -39,11 +39,68 @@ Answer the following in your own words with examples:
 
 a) What is the main difference between an **Object** and an **Array**?  
 
+```md
     Object: It is a collection of a key-value pairs, generally used to store different datatypes in
     a single variable
+```
+
+```js
+// example:
+let obj = {
+    name: "Dhruv",
+    age : 17
+}
+```
+
+```md
     Array: It is an ordered list of values, generally stores same datatype values, can be accessed 
     by index
-    
-b) Why does `typeof null` return `"object"`? Is `null` really an object?  
+```
+
+```js
+// example:
+let arr = [12, 34, 56, 78]
+```
+
+b) Why does `typeof null` return `"object"`? Is `null` really an object? 
+
+```md
+    null is not really an object it is a totally different datatype but typeof null returns object
+    due to quirk of JS
+```
+
+```js
+let x = null
+```
+
 c) Why is it recommended to keep arrays with a single data type?  
+
+```md
+    arrays are recommended to keep with a single data type to keep code easier to understand and 
+    less error-prone.
+```
+
+```js
+let students = ["Dhruv", "Om", "Kashyap"]
+```
+
 d) When should you use `const` and when should you use `let`?
+
+```md
+    const: When you are assigning a value to a variable which should be kept constant throughout code and 
+    you are not going to change its value you should use const
+```
+
+```js
+const PI = 3.14
+```
+
+```md
+    let: When we are declaring a variable whose value we are going to change later in code we should prefer
+    let
+```
+
+```js
+let marks = 78;
+marks = 98
+```
