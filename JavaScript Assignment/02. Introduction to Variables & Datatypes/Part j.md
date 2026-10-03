@@ -98,7 +98,7 @@ const PI = 3.14
 
 ```md
     let: When we are declaring a variable whose value we are going to change later in code we should
-   prefer let
+    prefer let
 ```
 
 ```js
