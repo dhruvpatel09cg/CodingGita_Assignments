@@ -6,7 +6,7 @@ Q1) A bus has 80 seats, and 53 seats are occupied. Find the number of empty seat
 let totalSeats = 80
 let occupiedSeats = 53
 let emptySeats = totalSeats - occupiedSeats
-console.log(emptySeats)
+console.log("Empty seats:",emptySeats)
 ```
 
 Q2) A student has 500 marks and loses 35 marks due to incorrect answers. Find the final marks.
@@ -15,7 +15,7 @@ Q2) A student has 500 marks and loses 35 marks due to incorrect answers. Find th
 let initialMarks = 500
 let marksLost = 35
 let finalMarks = initialMarks - marksLost
-console.log(finalMarks)
+console.log("Final marks:",finalMarks)
 ```
 
 Q3) A warehouse has 2,500 boxes and sends 875 boxes to a store. Find the remaining boxes.
@@ -24,7 +24,7 @@ Q3) A warehouse has 2,500 boxes and sends 875 boxes to a store. Find the remaini
 let totalBoxes = 2500
 let boxesSentToStore = 875
 let remainingBoxes = totalBoxes - boxesSentToStore
-console.log(remainingBoxes)
+console.log("Boxes remaining:",remainingBoxes)
 ```
 
 Q4) Predict the output:
@@ -43,7 +43,7 @@ Q5) Predict the output:
 let x = "20";
 let y = "5";
 let result = x - y;
-console.log(result);
+console.log("Result:",result);
 // Output: 15
 ```
 
@@ -57,7 +57,7 @@ Q7) A tank has 500 litres of water. After using 175 litres, how much water is le
 let totalWater = 500
 let waterUsed = 175
 let waterLeft = totalWater - waterUsed
-console.log(waterLeft)
+console.log("Water left:",waterLeft)
 ```
 
 Q8) What is the result of `"50" - 20` and `"50" - "20"`? Explain any difference.
@@ -81,8 +81,8 @@ console.log("Apples left:",appelLeft)
 Q10) Predict and explain the outputs:  
 
 ```js
-console.log("100" - 50);
-console.log("abc" - 10);
-console.log(10 - "5" - "2");
-console.log("10" - "5" - "2");
+console.log("100" - 50); // Output: 50 => JS converts strings datatype into number while subtracting
+console.log("abc" - 10); // Output: NaN => As abc cannot be converted to number datatype and 10 is number so JS give output of datatype number but value Not a Number
+console.log(10 - "5" - "2"); // Output: 3 => JS converts strings datatype into number while subtracting 
+console.log("10" - "5" - "2"); // Output: 3 => JS converts strings datatype into number while subtracting
 ```
