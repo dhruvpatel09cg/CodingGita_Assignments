@@ -79,7 +79,10 @@ console.log(remainingBalance)
 Q10) Predict the outputs and explain:
 
 ```js
-console.log(5 + "5" + 5); // Output: 555 => Output is 555 as JS converts number datatype to string while adding them together.
-console.log(5 + 5 + "5"); // Output: 105 => Output is 105 as JS first adds 5 with 5 and makes it 10 and then converts it to string datatype to add it in another string.
-console.log("5" + 5 + 5); // Output: 555 => Output is 555 as JS converts number datatype to string while adding them together.
+console.log(5 + "5" + 5); // Output: 555 => Output is 555 as JS converts number datatype to string while
+adding them together.
+console.log(5 + 5 + "5"); // Output: 105 => Output is 105 as JS first adds 5 with 5 and makes it 10 and
+then converts it to string datatype to add it in another string.
+console.log("5" + 5 + 5); // Output: 555 => Output is 555 as JS converts number datatype to string while
+adding them together.
 ```
