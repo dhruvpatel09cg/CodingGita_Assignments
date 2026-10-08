@@ -29,6 +29,12 @@ console.log(x);
 // Output: 100
 ```
 
-Q5) What is the result of `let m = 15; m %= 0;`? Explain.
+Q5) Predict the output:
 
-Output: NaN => remainder of a number divided by 0 will be Not a Number
+```js
+let p = 15;
+let q = p;
+q = 30;
+console.log(p, q);
+// Output: 15, 30
+```
