@@ -80,3 +80,76 @@
 #     reverse = reverse*10 + digit
 #     num = num // 10
 # print(reverse)
+
+# Q31
+# import math
+# num = int(input("Integer:"))
+# original = num
+# reverse = 0
+# for i in range(int(math.log10(num))+1):
+#     digit = num % 10
+#     reverse = reverse*10 + digit
+#     num = num // 10
+# if reverse == original:
+#     print("Palindrome")
+# else:
+#     print("Not Palindrome")
+
+# Q32
+# import math
+# num = int(input("Integer:"))
+# target = int(input("Target digit:"))
+# count = 0
+# for i in range(int(math.log10(num))+1):
+#     digit = num % 10
+#     if digit == target:
+#         count = count + 1
+#     num = num // 10
+# print(count)
+
+# Q33
+# import math
+# num = int(input("Integer:"))
+# for i in range(int(math.log10(num))+1):
+#     num = num // 10
+#     if 0 < num < 10:
+#         print(num)
+
+# Q34
+# import math
+# num = int(input("Integer:"))
+# min = 9
+# max = 0
+# for i in range(int(math.log10(num))+1):
+#     digit = num % 10
+#     if digit < min:
+#         min = digit
+#     if digit > max:
+#         max = digit
+#     num = num // 10
+# print(max - min)
+
+# Q35
+# import math
+# num = int(input("Integer:"))
+# position = 1
+# for i in range(int(math.log10(num))+1):
+#     digit = num % 10
+#     print(digit, position)
+#     position += 1
+#     num = num // 10
+
+# Q36
+# import math
+# num = int(input("Integer:"))
+# original = num
+# tally = 0
+# for i in range(int(math.log10(num))+1):
+#     digit = num % 10
+#     tally = tally + digit ** 3
+#     num = num // 10
+
+# if original == tally:
+#     print("Armstrong Number")
+# else:
+#     print("Not Armstrong Number")
