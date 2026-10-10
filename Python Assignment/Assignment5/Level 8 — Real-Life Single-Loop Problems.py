@@ -73,3 +73,43 @@
 # print("Present:",present)
 # print("Absent:",absent)
 # print("Attendance:",attend)
+
+# Q65
+# days = int(input("No. of days:"))
+# total = 0
+# above10 = 0
+
+# for i in range(days):
+#     unit = int(input("electricity units used:"))
+#     total = total + unit
+#     if unit > 10:
+#         above10 = above10 + 1
+# print("Total units:",total)
+# print("Days Above 10:",above10)
+
+# Q66
+# num = int(input("No. of products:"))
+# total = 0
+# costly = 0
+
+# for i in range(num):
+#     price = int(input("Price of item:"))
+#     total = total + price
+#     if price > 1000:
+#         costly = costly + 1
+# print("Total:",total)
+# print("Products Above 1000:",costly)
+
+# Q67
+# N = int(input("N:"))
+# success = 0
+# fail = 0
+
+# for i in range(N):
+#     status = input("S or F:")
+#     if status in "sS":
+#         success = success + 1
+#     else:
+#         fail = fail + 1
+# print("Successful:",success)
+# print("Failed:",fail)
