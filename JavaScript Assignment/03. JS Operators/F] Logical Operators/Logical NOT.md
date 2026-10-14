@@ -39,3 +39,52 @@ let isReadOnly = false;
 let canBeEdited = !isReadOnly;
 console.log("canBeEdited")
 ```
+
+## Additional Questions
+
+Q6) Predict the output:
+
+```js
+let a = 0;
+let b = 1;
+console.log(!a, !b);
+// Output: true, false
+```
+
+Q7) Predict the output:
+
+```js
+let x = "Hello";
+let y = "";
+console.log(!x, !y);
+// Output: false, true
+```
+
+Q8) Predict the output:
+
+```js
+let val = 5;
+let result = !val;
+console.log(result);
+// Output: false
+```
+
+Q9) Predict the output:
+
+```js
+let a = 10;
+let b = 20;
+let result = !(a && b);
+console.log(result);
+// Output: false
+```
+
+Q10) Predict the output:
+
+```js
+let x = 0;
+let y = 1;
+let result = !(x || y);
+console.log(result);
+// Output: false
+```
