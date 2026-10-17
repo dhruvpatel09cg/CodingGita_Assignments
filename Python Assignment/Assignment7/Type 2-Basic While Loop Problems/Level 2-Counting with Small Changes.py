@@ -33,3 +33,10 @@
 # print(sum)
 
 # Q30
+# N = int(input("N:"))
+# i = 1
+# sum = 0
+# while i<=N:
+#     sum = sum + i
+#     i += 2
+# print(sum)
