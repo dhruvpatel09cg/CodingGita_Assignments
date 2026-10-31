@@ -63,4 +63,17 @@
 #     print()
 
 # Q30
+# N = int(input("N:"))
+# for i in range(1,N+1):
+#     if i%2==1:
+#         for j in range(1,i+1):
+#             print(j,end="")
+#     else:
+#         for j in range(i,0,-1):
+#             print(j,end="")
+#     print()
+
+# Q31
 N = int(input("N:"))
+for i in range(1,N+1):
+    for j in range()
