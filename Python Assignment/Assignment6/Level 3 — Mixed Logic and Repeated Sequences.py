@@ -33,13 +33,13 @@
 
 # Q27
 # N = int(input("N:"))
-# for i in range(1,N+1):
-#     for j in range(1,N+1):
-#         if i%2==1 and j%2==1:
+# for z in range(1,N+1):
+#     for a in range(1,N+1):
+#         if z%2==1 and a%2==1:
 #             print("*",end="")
-#         elif i%2==1 and j%2==0:
+#         elif z%2==1 and a%2==0:
 #             print("#",end="")
-#         elif i%2==0 and j%2==1:
+#         elif z%2==0 and a%2==1:
 #             print("#",end="")
 #         else:
 #             print("*",end="")
@@ -47,33 +47,62 @@
 
 # Q28
 # N = int(input("N:"))
-# for i in range(1,N+1):
-#     for j in range(1,N+1):
-#         if i%2==1:
-#             print(j%2,end="")
+# for b in range(1,N+1):
+#     for c in range(1,N+1):
+#         if b%2==1:
+#             print(c%2,end="")
 #         else:
-#             print((j+1)%2,end="")
+#             print((c+1)%2,end="")
 #     print()
 
 # Q29
 # N = int(input("N:"))
-# for i in range(1,N+1):
-#     for j in range(1,N+1):
-#         print(i*j,end=" ")
+# for d in range(1,N+1):
+#     for e in range(1,N+1):
+#         print(d*e,end=" ")
 #     print()
 
 # Q30
 # N = int(input("N:"))
-# for i in range(1,N+1):
-#     if i%2==1:
-#         for j in range(1,i+1):
-#             print(j,end="")
+# for f in range(1,N+1):
+#     if f%2==1:
+#         for g in range(1,f+1):
+#             print(g,end="")
 #     else:
-#         for j in range(i,0,-1):
-#             print(j,end="")
+#         for g in range(f,0,-1):
+#             print(g,end="")
 #     print()
 
 # Q31
-N = int(input("N:"))
-for i in range(1,N+1):
-    for j in range()
+# N = int(input("N:"))
+# for h in range(1,N+1):
+#     for i in range(1,N-h+1):
+#         print(" ",end="")
+#     for j in range(1,h+1):
+#         print(j,end="")
+#     for k in range(h-1,0,-1):
+#         print(k,end="")
+#     print()
+# for l in range(1,N):
+#     for m in range(1,l+1):
+#         print(" ",end="")
+#     for n in range(1,N-l+1):
+#         print(n,end="")
+#     for o in range(N-l-1,0,-1):
+#         print(o,end="")
+#     print()
+
+# Q32
+# N = int(input("N:"))
+
+# for i in range(2*N-1):
+#     for j in range(2*N-1):
+#         if i <= j and i <= 2*N-2-i and i <= 2*N-2-j:
+#             print(N-i, end=" ")
+#         elif j <= i and j <= 2*N-2-i and j <= 2*N-2-j:
+#             print(N-j, end=" ")
+#         elif 2*N-2-i <= i and 2*N-2-i <= j and 2*N-2-i <= 2*N-2-j:
+#             print(N-(2*N-2-i), end=" ")
+#         else:
+#             print(N-(2*N-2-j), end=" ")
+#     print()
