@@ -95,14 +95,14 @@
 # Q32
 # N = int(input("N:"))
 
-# for i in range(2*N-1):
-#     for j in range(2*N-1):
-#         if i <= j and i <= 2*N-2-i and i <= 2*N-2-j:
-#             print(N-i, end=" ")
-#         elif j <= i and j <= 2*N-2-i and j <= 2*N-2-j:
-#             print(N-j, end=" ")
-#         elif 2*N-2-i <= i and 2*N-2-i <= j and 2*N-2-i <= 2*N-2-j:
-#             print(N-(2*N-2-i), end=" ")
+# for p in range(2*N-1):
+#     for q in range(2*N-1):
+#         if p <= q and p <= 2*N-2-p and p <= 2*N-2-q:
+#             print(N-p, end=" ")
+#         elif q <= p and q <= 2*N-2-p and q <= 2*N-2-q:
+#             print(N-q, end=" ")
+#         elif 2*N-2-p <= p and 2*N-2-p <= q and 2*N-2-p <= 2*N-2-q:
+#             print(N-(2*N-2-p), end=" ")
 #         else:
-#             print(N-(2*N-2-j), end=" ")
+#             print(N-(2*N-2-q), end=" ")
 #     print()
