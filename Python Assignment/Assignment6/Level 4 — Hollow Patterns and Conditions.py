@@ -54,13 +54,31 @@
 # for b in range(1,N+1):
 #     for c in range(N,b,-1):
 #         print(" ",end="")
-#     for k in range(1,2*b):
-#         if k==1 or k==2*b-1 or b==N:
+#     for g in range(1,2*b):
+#         if g==1 or g==2*b-1 or b==N:
 #             print("*",end="")
 #         else:
 #             print(" ",end="")
 #     print()
 
 # Q39
-N = int(input("N:"))
-for
+# N = int(input("N:"))
+# for d in range(1,N+1):
+#     for e in range(N,d,-1):
+#         print(" ",end="")
+#     for f in range(1,2*d):
+#         if f==1 or f==2*d-1:
+#             print("*",end="")
+#         else:
+#             print(" ",end="")
+#     print()
+# for h in range(1,N):
+#     for i in range(1,h+1):
+#         print(" ",end="")
+#     for j in range(1,2*N+1):
+#         if j==1 or j==2*N-2*h-1:
+#             print("*",end="")
+#         else:
+#             print(" ",end="")
+#     print()
+
