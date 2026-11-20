@@ -69,3 +69,21 @@ second();
 ```
 
 Answer: Calling the function `fist()` will not give any output as we just declared a variable inside that function. But calling the function `second()` will give `ReferenceError: number is not defined` as variable number was declared in `first()` so it was not accessible outside that function.
+
+Q5) Write a JavaScript program that:
+
+- Declares one variable in the global scope.
+- Declares another variable inside a function.
+- Prints both variables inside the function.
+- Prints the global variable outside the function.
+
+```js
+var x = 45
+function myFunc(){
+    var y = 35
+    console.log(x)
+    console.log(y)
+}
+myFunc()
+console.log(x)
+```
