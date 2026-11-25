@@ -105,26 +105,37 @@
 
 # Q41
 # N = int(input("N:"))
-# for k in range(1,N+1):
-#     if k==N:
+# for r in range(1,N+1):
+#     if r==N:
 #         for q in range(1,2*N+1):
 #             print("*",end="")
 #         print()
 #         break
-#     for m in range(1,k):
+#     for s in range(1,r):
 #         print(" ",end="")
-#     for l in range((N-k)*2+1,0,-1):
-#         if l==1 or l==(N-k)*2+1:
+#     for t in range((N-r)*2+1,0,-1):
+#         if t==1 or t==(N-r)*2+1:
 #             print("*",end="")
 #         else:
 #             print(" ",end="")
 #     print()
-# for n in range(2,N+1):
-#     for p in range(N-n,0,-1):
+# for u in range(2,N+1):
+#     for v in range(N-u,0,-1):
 #         print(" ",end="")
-#     for o in range(1,2*n):
-#         if o==1 or o==2*n-1:
+#     for w in range(1,2*u):
+#         if w==1 or w==2*u-1:
 #             print("*",end="")
 #         else:
 #             print(" ",end="")
 #     print()
+
+# Q42
+# N = int(input("N:"))
+# for x in range(N):
+#     for y in range(N):
+#         if x==y or x+y==N-1:
+#             print("*",end="")
+#         else:
+#             print(" ",end="")
+#     print()
+
