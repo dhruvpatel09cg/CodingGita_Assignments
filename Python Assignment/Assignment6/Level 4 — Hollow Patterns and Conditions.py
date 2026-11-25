@@ -82,3 +82,49 @@
 #             print(" ",end="")
 #     print()
 
+# Q40
+# N = int(input("N:"))
+# for k in range(1,N+1):
+#     for m in range(1,k):
+#         print(" ",end="")
+#     for l in range((N-k)*2+1,0,-1):
+#         if l==1 or l==(N-k)*2+1:
+#             print("*",end="")
+#         else:
+#             print(" ",end="")
+#     print()
+# for n in range(2,N+1):
+#     for p in range(N-n,0,-1):
+#         print(" ",end="")
+#     for o in range(1,2*n):
+#         if o==1 or o==2*n-1:
+#             print("*",end="")
+#         else:
+#             print(" ",end="")
+#     print()
+
+# Q41
+# N = int(input("N:"))
+# for k in range(1,N+1):
+#     if k==N:
+#         for q in range(1,2*N+1):
+#             print("*",end="")
+#         print()
+#         break
+#     for m in range(1,k):
+#         print(" ",end="")
+#     for l in range((N-k)*2+1,0,-1):
+#         if l==1 or l==(N-k)*2+1:
+#             print("*",end="")
+#         else:
+#             print(" ",end="")
+#     print()
+# for n in range(2,N+1):
+#     for p in range(N-n,0,-1):
+#         print(" ",end="")
+#     for o in range(1,2*n):
+#         if o==1 or o==2*n-1:
+#             print("*",end="")
+#         else:
+#             print(" ",end="")
+#     print()
